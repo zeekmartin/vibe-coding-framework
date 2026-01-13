@@ -116,6 +116,14 @@ Contributions are welcome if they keep the framework:
 - tool-agnostic
 - focused on safety and clarity
 
+## Non-goals
+
+This framework intentionally does NOT aim to:
+- replace testing or CI
+- enforce tools or languages
+- provide an autonomous agent
+- become a heavy process or methodology
+
 See `CONTRIBUTING.md`.
 
 ---
