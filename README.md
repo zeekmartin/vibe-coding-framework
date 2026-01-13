@@ -1,5 +1,6 @@
 # Vibe Coding Framework
 
+[![Use this template](https://img.shields.io/badge/use%20this-template-brightgreen)](https://github.com/YOUR_USERNAME/vibe-coding-framework/generate)
 ![Version](https://img.shields.io/badge/version-v1.0-blue)
 ![License](https://img.shields.io/badge/license-MIT-green)
 ![Status](https://img.shields.io/badge/status-stable-brightgreen)
