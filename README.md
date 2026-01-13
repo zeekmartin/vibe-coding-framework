@@ -67,4 +67,4 @@ Security and non-regression are defaults, not phases.
 
 ## License
 
-MIT © {year}
+MIT © {2026}
